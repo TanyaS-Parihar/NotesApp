@@ -1,5 +1,8 @@
+
+
 # GitHub Codespaces ♥️ .NET
 
+"Your easy pease note-taking app"
 Want to try out the latest performance improvements coming with .NET for web development? 
 
 This repo builds a Weather API, OpenAPI integration to test with [Scalar](https://learn.microsoft.com/aspnet/core/fundamentals/openapi/using-openapi-documents?view=aspnetcore-9.0#use-scalar-for-interactive-api-documentation), and displays the data in a web application using Blazor with .NET. 
